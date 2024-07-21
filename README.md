@@ -1,12 +1,4 @@
-```html
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Smart Home Control System Using Hand Gesture Recognition</title>
-</head>
-<body>
+
     <h1>Smart Home Control System Using Hand Gesture Recognition</h1>
 
     <h2>Overview</h2>
@@ -80,6 +72,4 @@ cd hand-gesture-recognition</code></pre>
 
     <h2>Acknowledgments</h2>
     <p>Special thanks to the organizers and my teammates for their support and collaboration during this hackathon.</p>
-</body>
-</html>
-```
+
