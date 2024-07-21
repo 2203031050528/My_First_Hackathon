@@ -1,7 +1,7 @@
 
 ## **Overview** 📄
 
-This is my first hackathon project, a Smart Home Control System that leverages hand gesture recognition to detect and classify shapes drawn in the air using a webcam.
+This is my first hackathon project that leverages hand gesture recognition to detect and classify shapes drawn in the air using a webcam.
 
 ## **Features** ✨
 
